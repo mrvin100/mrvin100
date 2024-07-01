@@ -22,7 +22,7 @@ I’m currently learning JavaScript
 
 ## dev front end
 
- <h1 style="width: 100%; text-align: center; font-size: 0.938rem;">  VINCENT/JEANDOE </h1>
+ <h3 style="width: 100%; text-align: center; font-size: 0.938rem;">  VINCENT/JEANDOE </h3>
 
 ### How to reach me
 + [Portfolio](https://vincentyoumssiportfolio.great-site.net)
