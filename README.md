@@ -31,7 +31,7 @@ I’m currently learning JavaScript
 </p>
 </section>
 
-## dev front end
+### Front end Developper.
 
  <h3 text-align="center" font-size="0.938rem"  color="#fd4567">  VINCENT/JEANDOE </h3>
 
@@ -39,6 +39,7 @@ I’m currently learning JavaScript
 + [Portfolio](https://vincentyoumssiportfolio.great-site.net)
 + [telegram](https://t.me/mrvincent)
 + [mail](vincentyoumssi@gmail.com)
++ [Team48](https://team48.great-site.net)
 
 <!---
 Vincent/vincent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
