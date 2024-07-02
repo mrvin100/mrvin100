@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 <!-- home section starts -->
 <section display="flex" justify-content="space-between" gap="10px">
-<div class="animated_image" float="left">
-<!-- ![command line icon](img/wired-lineal-1326-command-window-line.gif) -->
-<img src="img/wired-lineal-1326-command-window-line.gif" al="icon image" width="100px" height="100px" />
+<div class="animated_image" width="50%" display="inline-block">
+<!-- ![command line icon](img/wired-lineal-1326-command-window-line.gif) 
+<img src="img/wired-lineal-1326-command-window-line.gif" al="icon image" width="100px" height="100px" float="left" />-->
 </div>
 
-<p border="1px solid white">
+<p border="1px solid white" width="50%" display="inline-block" float="right">
 Hi, call me  <strong>Vincent</strong><br/>
 I’m a front end developer an UX/UI designer base in Africa/Cameroon<br/>
 I’m currently learning JavaScript  
