@@ -12,17 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## VINCENT YOUMSSI
 
 ![La banniere du profil github de vincent](https://github.com/Zepoh/Zepoh/blob/main/graphical_chart/BanniereZepohGithubFrontEnd.png)
 
-Hi, call me  **Vincent**   
-I’m a front end developer an UX/UI designer base in Africa/Cameroon  
+<!-- home section starts -->
+<section display="flex" justify-content="space-between" gap="10px">
+<div class="animated_image" float="left">
+<!-- ![command line icon](img/wired-lineal-1326-command-window-line.gif) -->
+<img src="img/wired-lineal-1326-command-window-line.gif" al="icon image" width="100px" height="100px" />
+</div>
+
+<p border="1px solid white">
+Hi, call me  <strong>Vincent</strong><br/>
+I’m a front end developer an UX/UI designer base in Africa/Cameroon<br/>
 I’m currently learning JavaScript  
+</p>
+</section>
 
 ## dev front end
 
- <h3 style="width: 100%; text-align: center; font-size: 0.938rem;">  VINCENT/JEANDOE </h3>
+ <h3 text-align="center" font-size="0.938rem"  color="#fd4567">  VINCENT/JEANDOE </h3>
 
 ### How to reach me
 + [Portfolio](https://vincentyoumssiportfolio.great-site.net)
