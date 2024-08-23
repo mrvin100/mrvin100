@@ -37,7 +37,7 @@ I’m currently learning Nextjs (React Framework)
 
 ### How to reach me
 + [Portfolio](https://vincentyoumssiportfolio.great-site.net)
-+ [telegram](https://t.me/mrvincent)
++ [telegram](https://t.me/mrvin100)
 + [mail](vincentyoumssi@gmail.com)
 + [Team48](https://team48.great-site.net)
 
