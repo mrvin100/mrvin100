@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 <p border="1px solid white" width="50%" display="inline-block" float="right">
 Hi, call me  <strong>Vincent</strong><br/>
 I’m a front end developer base in Africa/Cameroon<br/>
-I’m currently learning Nextjs (React Framework)
+I’m using Nextjs (React Framework) | Typescript | TailwindCSS | ShadcnUI | PostgreSQL
+About CMS i'm using Strapi CMS
 </p>
 </section>
 
