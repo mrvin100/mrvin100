@@ -37,7 +37,7 @@ About CMS i'm using Strapi CMS
  <h3 text-align="center" font-size="0.938rem"  color="#fd4567">  VINCENT/JEANDOE </h3>
 
 ### How to reach me
-+ [Portfolio]([https://vincent-youmssi-portfolio.vercel.app/])
++ [Portfolio](https://vincent-youmssi-portfolio.vercel.app/)
 + [telegram](https://t.me/mrvin100)
 + [mail](vincentyoumssi@gmail.com)
 + [Team48](https://team48.great-site.net)
