@@ -26,21 +26,18 @@ Here are some ideas to get you started:
 
 <p border="1px solid white" width="50%" display="inline-block" float="right">
 Hi, call me  <strong>Vincent</strong><br/>
-I’m a front end developer base in Africa/Cameroon<br/>
-I’m using Nextjs (React Framework) | Typescript | TailwindCSS | ShadcnUI | PostgreSQL<br/>
-About CMS i'm using Strapi CMS
+I’m a Software Engineer base in Africa/Cameroon<br/>
 </p>
 </section>
 
-### Front end Developper.
+### Software Engineer.
 
- <h3 text-align="center" font-size="0.938rem"  color="#fd4567">  VINCENT/JEANDOE </h3>
+ <h3 text-align="center" font-size="0.938rem"  color="#fd4567">  VINCENT </h3>
 
 ### How to reach me
 + [Portfolio](https://vincent-youmssi-portfolio.vercel.app/)
 + [telegram](https://t.me/mrvin100)
 + [mail](vincentyoumssi@gmail.com)
-+ [Team48](https://team48.great-site.net)
 
 <!---
 Vincent/vincent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
