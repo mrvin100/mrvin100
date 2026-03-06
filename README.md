@@ -32,12 +32,10 @@ I’m a Software Engineer base in Africa/Cameroon<br/>
 
 ### Software Engineer.
 
- <h3 text-align="center" font-size="0.938rem"  color="#fd4567">  VINCENT </h3>
-
 ### How to reach me
 + [Portfolio](https://vincent-youmssi-portfolio.vercel.app/)
 + [telegram](https://t.me/mrvin100)
-+ [mail](vincentyoumssi@gmail.com)
++ [mail](mailto:vincentyoumssi@gmail.com)
 
 <!---
 Vincent/vincent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
